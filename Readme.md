@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication40/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication40/Form1.vb))
+* [KeyboardSelectionEventArgs.cs](./CS/WindowsFormsApplication40/KeyboardSelectionEventArgs.cs) (VB: [KeyboardSelectionEventArgs.vb](./VB/WindowsFormsApplication40/KeyboardSelectionEventArgs.vb))
+* [MyGalleryControl.cs](./CS/WindowsFormsApplication40/MyGalleryControl.cs) (VB: [MyGalleryControlGallery.vb](./VB/WindowsFormsApplication40/MyGalleryControlGallery.vb))
+* [MyGalleryControlGallery.cs](./CS/WindowsFormsApplication40/MyGalleryControlGallery.cs) (VB: [MyGalleryControlGallery.vb](./VB/WindowsFormsApplication40/MyGalleryControlGallery.vb))
+* [Program.cs](./CS/WindowsFormsApplication40/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication40/Program.vb))
+<!-- default file list end -->
 # GalleryControl - get selected item with keyboard navigation
 
 
